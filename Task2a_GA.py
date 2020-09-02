@@ -6,7 +6,7 @@ for i in range(0,10):
     pop[i]=Task2a_GAOperators.CHROMOSOME(8)
     print(pop[i].genes,pop[i].fitness)
 
-print('******************************************************************************')
+print('************************************************************************')
 
 for g in range(0,1): #generation loop
     offspring_pop=[]
